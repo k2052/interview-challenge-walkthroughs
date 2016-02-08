@@ -19,7 +19,7 @@ The process you go through should be like this;
 2. Do it manually
 3. Figure out the data structures
 
-See my blog post [How to Solve an Interview Challenge](http://journal.2052.me/HowToSolveAnInterviewChallenge.html) for a much longer read.
+See my blog post [How to Solve an Interview Challenge](http://journal.2052.me/How-to-Solve-an-Interview-Challenge.html) for a much longer read.
 
 ## Support
 
